@@ -10,11 +10,11 @@
 
 
 ## 🌐 **Reach out to me:** ️
-<p align="left">
-<a href="https://linkedin.com/in/utkarshkharche" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="utkarshkharche" height="30" width="40" /></a>
-<a href="https://instagram.com/utkarsh.kharche" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="utkarsh.kharche" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/utkarshkharche" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="utkarshkharche" height="30" width="40" /></a>
-</p>
+[<img src="https://img.shields.io/badge/LinkedIn-utkarshkharche-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>][linkedin]
+[<img src="https://img.shields.io/badge/Gmail-upkharche@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"/>][gmail]
+[<img src="https://img.shields.io/badge/Github-utkarshkharche-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6"/>][github]
+[<img src="https://img.shields.io/badge/Stackoverflow-utkarsh--kharche-informational?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=fe7a16&color=fe7a16"/>][stackoverflow]
+
 
 
 ## 🛠️ **Languages & Tools:**
@@ -23,6 +23,11 @@
 
 ## 📈 **Github Stats:**
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarshkharche&show_icons=true&locale=en&layout=compact" alt="utkarshkharche" /></p>
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarshkharche&show_icons=true&locale=en" alt="utkarshkharche" /></p>
+
+<!-- Links of Definitions -->
+
+[linkedin]: https://www.linkedin.com/in/utkarshkharche/
+[gmail]: mailto:upkharche@gmail.com "Lets connect through email"
+[stackoverflow]: https://stackoverflow.com/users/11251783/utkarsh-kharche
+[github]: https://github.com/utkarshkharche
