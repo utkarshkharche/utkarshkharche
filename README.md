@@ -35,8 +35,8 @@
 
 
 ## 📈 **Github Stats:**
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarshkharche&show_icons=true&locale=en&layout=compact" alt="utkarshkharche" width="420" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarshkharche&show_icons=true&locale=en" alt="utkarshkharche" height="165"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarshkharche&show_icons=true&locale=en&layout=compact" alt="utkarshkharche" width="420" />
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=utkarshkharche&show_icons=true&locale=en" alt="utkarshkharche" height="165"/></p>
 
 <!-- Links of Definitions -->
 
