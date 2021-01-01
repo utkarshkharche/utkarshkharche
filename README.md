@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshkharche&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshkharche" /> </p>
 
 ## 👨‍💻 **About Me:** ️
-- Completed Diploma 🎓 in Computer Engineering from Govt. Polytechnic, Pune 🏛.
+- Completed Diploma in Computer Science 🎓 from Govt. Polytechnic, Pune 🏛.
 - Currently pursuing Bachelors's in Computer Science 🎓 from JSPM's Rajarshi Shahu College of Enfineering 🏛. 
 - I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
 
@@ -23,5 +23,6 @@
 
 ## 📈 **Github Stats:**
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarshkharche&show_icons=true&locale=en&layout=compact" alt="utkarshkharche" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarshkharche&show_icons=true&locale=en" alt="utkarshkharche" /></p>
